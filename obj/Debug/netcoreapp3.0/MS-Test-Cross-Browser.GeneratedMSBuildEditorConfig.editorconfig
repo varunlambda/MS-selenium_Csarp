@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = MS_Test_Cross_Browser
+build_property.ProjectDir = D:\Varun\MSTest-Selenium-Sample\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
